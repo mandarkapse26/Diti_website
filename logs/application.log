@@ -42,3 +42,10 @@
 2026-10-12 11:01:29 INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@23940f86: 4 ms
 2026-10-12 11:01:29 INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@e1e2e5e: 4 ms
 2026-10-12 11:01:29 INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@661c46bc: 1 ms
+2026-10-12 13:12:05 INFO  Utils - [TestNG] Running:
+  C:\Users\manda\eclipse-workspace\Diti_Website\testng.xml
+
+2026-10-12 13:12:05 INFO  WebDriverManager - Using chromedriver 154.0.8037.92 (resolved driver for Chrome 154)
+2026-10-12 13:12:05 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\manda\.cache\selenium\chromedriver\win64\154.0.8037.92\chromedriver.exe
+2026-10-12 13:12:14 INFO  Frist_class - code start
+2026-10-12 13:12:40 INFO  Frist_class - Screenshot taken successfully
